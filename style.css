@@ -1,0 +1,284 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    width: 1100px;
+    margin: auto;
+    background: rgb(243, 243, 243);
+}
+
+.waper {
+    background: white;
+    border: 15px solid white;
+}
+
+.nav_first {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    font-size: 10px;
+    margin-bottom: 5px;
+}
+
+.nav_second {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo_img {
+    width: 160px;
+}
+
+.search {}
+
+.search_input {
+    height: 40px;
+    width: 600px;
+    border-radius: 7px;
+    border: 1px solid orange;
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.button_search {
+    width: 280px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid orange;
+    background: white;
+}
+
+.button_search:active {
+    opacity: 65%;
+    background: orange;
+    border: 1px solid black;
+    color: white;
+}
+
+.nav_third {}
+
+.nav_third-menu {}
+
+.menu_ul {
+    display: flex;
+    justify-content: space-around;
+    background: rgb(255, 132, 38);
+    align-items: center;
+    color: white;
+    font-weight: bold;
+
+}
+
+.menu_ul-li {
+    padding: 0;
+    margin: 0;
+    padding: 10px;
+}
+
+.menu_ul li:hover {
+    cursor: pointer;
+    color: rgb(67, 23, 23);
+
+}
+
+.nav_third-banner {
+    display: block;
+    margin-top: 5px;
+}
+
+.banner_img {
+    width: 100%;
+    height: 270px;
+}
+
+#main {}
+
+.electric {
+    display: flex;
+    gap: 17px;
+    margin-top: 10px;
+}
+
+.phone_laptop {
+    box-shadow: 0 4px 16px rgba(46, 46, 46, 0.15);
+}
+
+.group_group {
+    display: flex;
+}
+
+.group_group-1 {
+    margin: 0px 10px;
+}
+
+.gr-img {
+    margin: 10px 0;
+}
+
+.img-sp {
+    height: 170px;
+    width: 150px;
+}
+
+.content {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.buy {
+    align-content: center;
+    text-indent: 25px;
+}
+
+.buy_button {
+    color: orange;
+    border: 1px solid orange;
+    border-radius: 5px;
+    height: 36px;
+    width: 100px;
+    background: white;
+    margin-bottom: 50px;
+    cursor: pointer;
+}
+
+.buy_button:active {
+    opacity: 65%;
+    background: orange;
+    border: 1px solid black;
+    color: white;
+}
+
+.name {
+    background: rgb(255, 132, 38);
+    height: 40px;
+    width: 280px;
+    align-content: center;
+    text-indent: 10px;
+    color: white;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+.trending {
+    box-shadow: 0 4px 16px rgba(46, 46, 46, 0.15);
+}
+
+.name1 {
+    background: rgb(255, 132, 38);
+    height: 40px;
+    width: 352px;
+    align-content: center;
+    text-indent: 10px;
+    color: white;
+    margin-top: 12px;
+    margin-left: 11px;
+    margin-bottom: 10px;
+}
+
+.table {}
+
+.table_table {
+    background: white;
+}
+
+.table_tr {}
+
+.table_tr-td {
+    font-weight: bold;
+    vertical-align: top;
+}
+
+.sidebar {
+    height: 170px;
+    width: 165px;
+    margin-bottom: 18px;
+}
+
+.news {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.name2 {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.group1 {
+    display: flex;
+    gap: 10px;
+}
+
+.group_gr {}
+
+.group_gr-img {
+    overflow: hidden;
+}
+
+.news_img:hover {
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+.news_img {
+    height: 200px;
+    width: 350px;
+
+}
+
+.group_gr-ct {
+    width: 350px;
+    height: 50px;
+    background: rgb(255, 132, 38);
+    color: white;
+    text-align: center;
+    align-content: center;
+    margin-top: 5px;
+}
+
+#footer {
+    display: flex;
+    margin-bottom: 25px;
+    gap: 16px;
+    opacity: 70%;
+    box-shadow: 0 4px 16px rgba(46, 46, 46, 0.15);
+}
+
+.footer_content {
+    margin-left: 12px;
+    width: 300px;
+    height: 200px;
+}
+
+.footer_content-logo {}
+
+.logo_footer {
+    width: 200px;
+    margin-bottom: 25px;
+}
+
+.nav_footer {
+    align-content: center;
+    margin: 22px 0;
+}
+
+.nav_content {
+    line-height: 25px;
+}
+
+.footer_content-ct {
+    line-height: 25px;
+}

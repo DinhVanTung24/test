@@ -1,0 +1,87 @@
+1. Dòng 1:
++ text:
+ - Thông báo
+ - Trợ giúp
+ - Đăng ký
+ - Đăng nhập
++ icon:
+ - far fa-bell:  Cái chuông
+ - far fa-question-circle : Câu hỏi
+
+2. Dòng 2:
++ text:
+ - Tìm kiếm
+ - Giỏ hàng
++ icon:
+ - fas fa-search: kính lúp
+ - fas fa-cart-plus: Giỏ hàng
+
+3. Dòng 3:
++ Text:
+ - Trang chủ
+ - Giới thiệu
+ - Sản phẩm
+ - Đăng ký đại lý
+ - Tin tức & sự kiện
+ - Tuyển dụng
+ - Liên hệ
+ 
+4. Dòng 4:
++ text:
+ - Điện thoại
+ - Nubia V70 Design 8GB 128GB
+ - 2.790.000 ₫
+ - Xiaomi Poco M7 Pro 5G 8GB 256GB
+ - 5.690.000 ₫
+ - Samsung Galaxy M55 5G 256GB
+ - 6.990.000 ₫
+ - Xiaomi Poco M6 Pro 8GB 256GB
+ - 4.990.000 ₫
+ - Mua hàng
+
+5. Dòng 5:
++ Text:
+ - sản phẩm bán chạy
+ - Camera giám sát IP 3MP 365 Selection C1
+ - Bếp điện từ đơn cảm ứng Kangaroo KG18IC1 2000W (Kèm nồi)
+ - Quạt sạc Sunhouse SHD7116
+ - Máy hút bụi lau nhà không dây Tineco iFloor 2 Max
+
+6. Dòng 6:
++ Text: 
+ - Máy tính
+ - Laptop Asus Vivobook
+ - 12.790.000 ₫
+ - Laptop Acer Aspire 7 Gaming A715
+ - 11.990.000 ₫
+ - Laptop Dell Inspiron N3530
+ - 18.490.000 ₫
+ - Laptop MSI Gaming Thin A15
+ - 17.290.000 ₫
+ - Mua hàng
+
+7. Dòng 7:
++ Text:
+ - khuyễn mãi không thể bỏ lỡ
+ - Sự kiện 1/6
+ - siêu sale cuối tháng
+ - siêu sale quý 3
+8. Dòng 8:
++ Text:
+ - Chúng tôi không ngừng đổi mới, và liên tục nghiên cứu sáng tạo, phần nâng cao chất lượng phục vụ khách hàng.
+ - Thông tin liên hệ
+ - Địa chỉ: 8/3 Nguyễn Ảnh Thủ, Trung Chánh, Hóc Môn, Tp.HCM.
+ - Điện thoại: 0909 624 113
+ - Fax: 0909 624 113
+ - Email: vantrung.ltv@gmail.com
+ - Chính sách
+ - Chính Sách Bảo Hành
+ - Chính Sách Vận Chuyển
+ - Hình Thức Thanh Toán
+ - Chính Sách Bảo Mật
+ - Chính Sách Đổi Trả
+ - Về chúng tôi
+ - Đăng nhập thành viên
+ - Hướng dẫn mua hàng
+ - Tra cứu hoá đơn điện tử
+ - Tra cứu bảo hành
